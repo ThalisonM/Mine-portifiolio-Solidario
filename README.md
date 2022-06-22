@@ -1,6 +1,7 @@
 # Mine-portifiolio-Solidario
 # Portifiolio
 Desenvolvi um pequeno portfólio para que os Desenvolvedores que esteja começando, pegue como base! No intuito de desenvolver o própio 🚀👨‍💻👨‍
+Fique a vontade para fazer ou melhora o cófigo!
 
 <h1> Tela 1 <h1> 
   
