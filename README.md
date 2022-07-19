@@ -1,7 +1,7 @@
 # Mine-Portifólio
 # Portifólio
 Desenvolvi um pequeno portifólio para que os Desenvolvedores que esteja começando! 
-<p>Pegue como base! O intuito e desenvolver o própio. Fique a vontade para editar ou melhora o código! 🚀👨‍💻👨<p>
+<p>Pegue como base! O intuito e desenvolver o própio. Fique à vontade para editar ou melhora o código! 🚀👨‍💻👨<p>
 
 <h1> Tela 1 <h1> 
   
