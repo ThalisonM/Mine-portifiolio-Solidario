@@ -1,4 +1,4 @@
-# Mine-Portifólio-Solidario
+# Mine-Portifólio
 # Portifólio
 Desenvolvi um pequeno portifólio para que os Desenvolvedores que esteja começando! 
 <p>Pegue como base! O intuito e desenvolver o própio. Fique a vontade para fazer ou melhora o código! 🚀👨‍💻👨<p>
