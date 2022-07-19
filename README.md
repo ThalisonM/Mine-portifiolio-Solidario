@@ -1,6 +1,6 @@
-# Mine-portifiolio-Solidario
-# Portifiolio
-Desenvolvi um pequeno portfólio para que os Desenvolvedores que esteja começando, pegue como base! No intuito de desenvolver o própio 🚀👨‍💻👨‍
+# Mine-Portifólio-Solidario
+# Portifólio
+Desenvolvi um pequeno portifólio para que os Desenvolvedores que esteja começando, pegue como base! No intuito de desenvolver o própio 🚀👨‍💻👨‍
 Fique a vontade para fazer ou melhora o código!
 
 <h1> Tela 1 <h1> 
